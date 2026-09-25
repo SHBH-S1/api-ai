@@ -1,0 +1,13 @@
+# Web Framework & Server
+fastapi>=0.100.0,<1.0.0
+uvicorn[standard]>=0.22.0,<1.0.0
+
+# Asynchronous HTTP Client
+httpx>=0.24.0,<1.0.0
+
+# Redis Client for Async Memory & Caching
+redis>=4.6.0,<6.0.0
+
+# Data Validation & Settings
+pydantic>=2.0.0,<3.0.0
+pydantic-settings>=2.0.0,<3.0.0
